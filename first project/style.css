@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-color: #eee;
+    font-family: 'New Tegomin', serif;
+}
+.container{
+   max-width: 100%;
+    background-color: #e4f9e4;
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid black;
+    float: left;
+}
+.header-bio{
+    padding: 30px;
+    float: left;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    margin-top: 25px;
+}
+.header-contact a{
+    
+    text-decoration: none;
+    color: tomato;
+    padding: 10px;
+    
+
+}
+.header-contact a:hover{
+
+text-decoration: underline;
+color: brown;
+}
+.clear-div{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#personal-section{
+
+}
+.content{
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+width: 70%;
+float: left;
+}
+.common-hr{
+    border:  1px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.right-div-templete{
+    float: right;
+    width: 45%;
+}
+.left-div-templete{
+    float: left;
+    width: 50%;
+
+}
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+
+}
+.bottom-container p{
+    color: white;
+    margin-top: 20px;
+
+}
